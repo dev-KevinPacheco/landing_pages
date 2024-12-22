@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*estilização do primeiro bloco de img*/
+
+.bloco1 {
+    background-image: url(img/bloco1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 730px;
+    width: 100%;
+    position: relative;
+}
+
+/*estilização do titulo */
+
+.titulo {
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    width: 500px;
+    height: 70px;
+    background-color: rgb(105, 105, 105);
+    text-align: center;
+    line-height: 70px;
+    letter-spacing: 4px;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+}
+
+/*estilização da div do texto 1 */
+
+.titulo1 {
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    width: 500px;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+    letter-spacing: 4px;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+}
+
+/*estilização do texto */
+
+.text1{
+    height: 230px;
+    text-align: center;
+    padding: 40px;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+/*estilização do bloco de imagem 2 */
+
+.bloco2{
+    background-image: url(img/bloco2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 400px;
+    width: 100%;
+    position: relative;
+}
+
+/*estilização da div do texto 2 */
+
+.text2{
+    height: 230px;
+    text-align: center;
+    padding: 40px;
+    font-size: 18px;
+    line-height: 40px;
+    background-color: #343644;
+    color: white;
+}
+
+/*estilização do bloco de imagem 3 */
+
+.bloco3{
+    background-image: url(img/bloco3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 400px;
+    width: 100%;
+    position: relative;
+}
+
+/*estilização da div do texto 3 */
+
+.text3{
+    height: 230px;
+    text-align: center;
+    padding: 40px;
+    font-size: 18px;
+    line-height: 40px;
+    background-color: #343644;
+    color: white;
+}
+
+/*estilização do bloco de imagem 4 */
+
+.bloco4{
+    background-image: url(img/bloco1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 730px;
+    width: 100%;
+    position: relative;
+}
+
+/*estilização do rodapé */
+
+.rodape{
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    width: 500px;
+    height: 70px;
+    background-color: rgb(105, 105, 105);
+    text-align: center;
+    line-height: 70px;
+    letter-spacing: 4px;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+}
